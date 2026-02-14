@@ -1,2 +1,2 @@
 # enso-nonlinear-analysis
-This project is currentky ongoing
+This project is currently ongoing
